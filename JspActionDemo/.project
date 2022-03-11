@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>mar10</name>
+	<name>JspActionDemo</name>
 	<comment></comment>
 	<projects>
 	</projects>
@@ -28,11 +28,4 @@
 		<nature>org.eclipse.jdt.core.javanature</nature>
 		<nature>org.eclipse.wst.jsdt.core.jsNature</nature>
 	</natures>
-	<linkedResources>
-		<link>
-			<name>WebContent/img/Forest-bird-chirping-sound.mp3</name>
-			<type>1</type>
-			<location>C:/Users/coditas/Downloads/Forest-bird-chirping-sound/Forest-bird-chirping-sound.mp3</location>
-		</link>
-	</linkedResources>
 </projectDescription>

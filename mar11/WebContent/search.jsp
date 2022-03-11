@@ -8,16 +8,16 @@
 </head>
 <body>
 <form action="result.jsp">
-  <label >Choose  u r choice</label><br>
+  <label >Choose  u r choice</label>
 
   <select   name="img">
-     <option value="" selected>select choice </option>
+     <option value="" seleted>select choice </option>
     <option value="bird">Bird</option>
     <option value="fruit">Fruit</option>
      
    
   </select>
-  <input type="submit" value="Search Image"><br>
+  <input type="submit" value="Search Image">
 </form>
 
 </body>
