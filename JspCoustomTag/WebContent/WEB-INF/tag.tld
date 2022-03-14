@@ -1,0 +1,39 @@
+ 
+
+<taglib>
+ <tlib-version>1.0</tlib-version>
+ <jsp-version>2.0</jsp-version>
+ <short-name>tannu
+ </short-name>
+ <tag>
+ <name>tannu</name>
+ <tag-class>com.CoustomTag</tag-class>
+ <body-content>empty</body-content>
+ 
+ <attribute>
+ <name>name</name>
+ <required>true</required>
+ </attribute>
+ 
+ <attribute>
+ <name>clgname</name>
+ <required>true</required>
+ </attribute>
+ <attribute>
+ <name>branch</name>
+ <required>true</required>
+ </attribute>
+ 
+ <attribute>
+ <name>company</name>
+ <required>true</required>
+ </attribute>
+ 
+ <attribute>
+ <name>position</name>
+ <required>true</required>
+ </attribute>
+ 
+ 
+ </tag>
+</taglib>
